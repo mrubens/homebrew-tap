@@ -1,8 +1,8 @@
 class Fmev < Formula
   desc "TypeSafe Jev-compatible decision API on Apple's on-device Foundation Model"
   homepage "https://github.com/mrubens/fmev"
-  url "https://github.com/mrubens/fmev/releases/download/v0.1.1/fmev-0.1.1-macos-arm64.zip"
-  sha256 "d90a5314d3ed9dbeadb84dd2ce32ea7db6fc4bd8334aacd96681326c223d41d4"
+  url "https://github.com/mrubens/fmev/releases/download/v0.1.2/fmev-0.1.2-macos-arm64.zip"
+  sha256 "73ccaba56f0fc1e62383797a598e9a362865a0ef16810ea3157ac1ef523bd9d2"
   license "MIT"
 
   depends_on arch: :arm64
